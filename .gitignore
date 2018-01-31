@@ -1,7 +1,10 @@
 # Compiled source #
 ###################
+<<<<<<< HEAD
 notebooks/
 textbooks/
+=======
+>>>>>>> ecbe033e29ca2b6541668bf70521f512aa5a49f3
 __pycache__/
 database/__pycache__/
 *.py[cod]
